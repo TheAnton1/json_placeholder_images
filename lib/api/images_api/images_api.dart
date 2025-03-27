@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:dio/dio.dart';
 import 'package:json_placeholder_cache_image/api/dto/images_dto.dart';
 import 'package:json_placeholder_cache_image/api/images_api/i_images_api.dart';
